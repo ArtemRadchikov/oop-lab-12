@@ -1,0 +1,14 @@
+C:\Users\Artem\source\repos\oop-lab-12\oop-lab-12\bin\Debug\oop-lab-12.exe.config
+C:\Users\Artem\source\repos\oop-lab-12\oop-lab-12\bin\Debug\oop-lab-12.exe
+C:\Users\Artem\source\repos\oop-lab-12\oop-lab-12\bin\Debug\oop-lab-12.pdb
+C:\Users\Artem\source\repos\oop-lab-12\oop-lab-12\obj\Debug\oop-lab-12.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\oop-lab-12\oop-lab-12\obj\Debug\oop-lab-12.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\oop-lab-12\oop-lab-12\obj\Debug\oop-lab-12.exe
+C:\Users\Artem\source\repos\oop-lab-12\oop-lab-12\obj\Debug\oop-lab-12.pdb
+D:\дз\ДЗ        2 курс\ООП\12\oop-lab-12\oop-lab-12\bin\Debug\oop-lab-12.exe.config
+D:\дз\ДЗ        2 курс\ООП\12\oop-lab-12\oop-lab-12\bin\Debug\oop-lab-12.exe
+D:\дз\ДЗ        2 курс\ООП\12\oop-lab-12\oop-lab-12\bin\Debug\oop-lab-12.pdb
+D:\дз\ДЗ        2 курс\ООП\12\oop-lab-12\oop-lab-12\obj\Debug\oop-lab-12.csprojAssemblyReference.cache
+D:\дз\ДЗ        2 курс\ООП\12\oop-lab-12\oop-lab-12\obj\Debug\oop-lab-12.csproj.CoreCompileInputs.cache
+D:\дз\ДЗ        2 курс\ООП\12\oop-lab-12\oop-lab-12\obj\Debug\oop-lab-12.exe
+D:\дз\ДЗ        2 курс\ООП\12\oop-lab-12\oop-lab-12\obj\Debug\oop-lab-12.pdb
